@@ -1,0 +1,19 @@
+{
+  "name": "dreamwalker",
+  "version": "1.6.1",
+  "description": "Your scheduled tasks fire on time, even when your Mac is asleep. Close the lid, go to bed — Dreamwalker wakes your Mac the moment a Cowork task is due. Fully automatic: every new task you schedule is picked up on its own, no configuration, no dashboard to watch. Install once, forget it.",
+  "author": {
+    "name": "Guillaume Chavanne"
+  },
+  "keywords": [
+    "cowork",
+    "scheduler",
+    "pmset",
+    "macos",
+    "sleep",
+    "wake",
+    "cron",
+    "overnight"
+  ],
+  "license": "MIT"
+}
